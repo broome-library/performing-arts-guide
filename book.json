@@ -1,0 +1,10 @@
+{
+    "description": "A JSBL Performing Arts Research Guide",
+    "structure":{
+        "readme":"intro.md"
+    },
+    "title":"Performing Arts Research Guide",
+    "variables": {
+        "librarian":"git+https://git.gitbook.com/broome-library/shared.git/contacts/lcarroll.md"        
+    }
+}
