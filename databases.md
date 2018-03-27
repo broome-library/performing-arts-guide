@@ -20,11 +20,11 @@
 
 > Latino Literature databases offer poetry, fiction and over 450 plays written in English and Spanish as well as over 800 unpublished items.
 
-## [North American Women's Drama](http://summit.csuci.edu:2048/login?url=http://wlit.alexanderstreet.com)
+## [North American Women's Drama](http://summit.csuci.edu:2048/login?url=http://solomon.wodr.alexanderstreet.com)
 
 > North American Women's Drama includes 1,517 plays by 330 playwrights and offers information on productions, theaters, production companies and more. Also available are unpublished plays, playbills, production photographs and other related materials.
 
-## [North American Indian Drama](http://summit.csuci.edu:2048/login?url=http://wlit.alexanderstreet.com)
+## [North American Indian Drama](http://summit.csuci.edu:2048/login?url=http://ind2.alexanderstreet.com)
 
 > North American Indian Drama includes 172 plays by 33 playwrights and offers information on productions, theaters, production companies and more.
 
@@ -36,10 +36,6 @@
 
 > Theatre in Video contains more than 250 performances of the world's leading plays and more than 100 film documentaries.
 
-## [Twentieth Century North American Drama](http://summit.csuci.edu:2048/login?url=http://wlit.alexanderstreet.com)
+## [Twentieth Century North American Drama](http://summit.csuci.edu:2048/login?url=http://nad2.alexanderstreet.com/)
 
 > Twentieth Century North American Drama contains approximately 1,530 plays by 223 playwrights and offers information on productions, theaters, production companies and more. It also includes playbills, production photographs and other related materials.
-
-## [AudioSparx](http://summit.csuci.edu:2048/login?url=http://www.audiosparx.com)
-
-> A database of stock audio and an industry-leading music library for those working in film and television.
