@@ -2,10 +2,6 @@
 
 ## Dance Video - selected freely available online video collections
 
-## [Alexander Street - Dance Online: Dance in Video](https://legacy.gitbook.com/book/broome-library/performing-arts-guide/edit#)
-
-> Dance Online: Dance in Video contains dance productions and documentaries by the most influential performers and companies of the 20th century. Selections cover ballet, tap, jazz, contemporary, experimental, and improvisational dance, as well as forerunners of the forms and the pioneers of modern concert dance
-
 ## [Dance Heritage Coalition Secure Media Network](http://danceheritage.org/index.html)
 
 > The beta version of DHC's searchable video sharing network.  For additional videos visit the [**DHCSMN Archives**](http://archive.danceheritage.org/)
