@@ -16,13 +16,9 @@
 
 ## [Internet Archive: Movie Archive](http://www.archive.org/details/movies)
 
-\]\([http://www.archive.org/details/movies](http://www.archive.org/details/movies)\)
-
 > Vast online library of freely available movies and videos, mostly public domain and ephemeral film.
 
 ## [Jacob's Pillow Dance Interactive](http://danceinteractive.jacobspillow.org/)
-
-\]\([http://danceinteractive.jacobspillow.org/](http://danceinteractive.jacobspillow.org/)\)
 
 > Free video resource curated by America's longest running dance festival. Click ARTIST, GENRE, or ERA to find dance clips spanning from the 1930s to today.
 
