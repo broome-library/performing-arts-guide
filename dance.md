@@ -18,13 +18,13 @@
 
 > Digital project from NYU Libraries and NYU's Hemispheric Institute of Performance and Politics that "provides a digital venue for documenting the expression of social and political life through performance."
 
-## \[Internet Archive: Movie Archive
+## [Internet Archive: Movie Archive](http://www.archive.org/details/movies)
 
 \]\([http://www.archive.org/details/movies](http://www.archive.org/details/movies)\)
 
 > Vast online library of freely available movies and videos, mostly public domain and ephemeral film.
 
-## \[Jacob's Pillow Dance Interactive
+## [Jacob's Pillow Dance Interactive](http://danceinteractive.jacobspillow.org/)
 
 \]\([http://danceinteractive.jacobspillow.org/](http://danceinteractive.jacobspillow.org/)\)
 
@@ -46,25 +46,17 @@
 
 > Search "dance" for dance videos
 
-## \[UCLA WAC/Dance Videos
+## [UCLA WAC/Dance Videos](https://vimeo.com/user23405304/videos)
 
-\]\([https://vimeo.com/user23405304/videos](https://vimeo.com/user23405304/videos)\)
+> Digitized videos via Vimeo from the UCLA World Arts & Cultures/Dance Department [**Video Library collection**](http://www.wacd.ucla.edu/video-lab).
 
-> Digitized videos via Vimeo from the UCLA World Arts & Cultures/Dance Department Video Library collection.
+## [Vimeo](https://www.vimeo.com/)
 
-## \[Vimeo
-
-\]\([https://www.vimeo.com/](https://www.vimeo.com/)\)
-
-> A video-sharing website in which users can upload, share and view videos.  
->  Search "dance" for dance videos  
-> .
+> A video-sharing website in which users can upload, share and view videos.  Search "dance" for dance videos
 
 ## [YouTube](http://www.youtube.com/)
 
-> The current giant of freely available online video, with the ability to share easily and add comments.  
->  Search "dance" for dance videos  
-> .
+> The current giant of freely available online video, with the ability to share easily and add comments.  Search "dance" for dance videos..
 
 
 
