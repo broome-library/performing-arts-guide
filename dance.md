@@ -1,4 +1,4 @@
-# [https://www.numeridanse.tv/index.php/en/home](https://www.numeridanse.tv/index.php/en/home)Dance
+# Dance
 
 ## Dance Video - selected freely available online video collections
 
