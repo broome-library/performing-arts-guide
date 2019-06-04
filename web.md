@@ -1,6 +1,6 @@
 # Web Resources
 
-## [National Endowment for the Arts](http://www.nea.gov/)
+## [National Endowment for the Arts](https://www.arts.gov/)
 
 > It _"support artistic excellence, creativity, and innovation for the benefit of individuals and communities."_
 
@@ -8,10 +8,9 @@
 
 > An index of various websites related to the performing arts.
 
-## [Performing Arts \(ipl2\)](http://www.ipl.org/)
-
-> A research guide for various subjects.
-
 ## [Performing Arts \(NYPL\)](http://www.nypl.org/weblinks/2389)
 
 > New York Public Library "best of the web" index.
+
+
+
