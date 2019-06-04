@@ -2,7 +2,7 @@
 
 ## Dance Video - selected freely available online video collections
 
-## [Dance Heritage Coalition Secure Media Network](http://danceheritage.org/index.html)
+## [Dance Heritage Coalition Secure Media Network](http://archive.danceheritage.org/)
 
 > The beta version of DHC's searchable video sharing network.  For additional videos visit the [**DHCSMN Archives**](http://archive.danceheritage.org/)
 
