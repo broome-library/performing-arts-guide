@@ -6,7 +6,7 @@
 
 > An organization of 12,000 artists, art historians, scholars, curators, collectors, educators, publishers, and other professionals committed to the practice of art, teaching, and research.
 
-### [Actors' Equity Association](http://www.actorsequity.org/home.asp)
+### [Actors' Equity Association](https://www.actorsequity.org/)
 
 > A labor union for live theater actors, which was founded in 1913 and has more than 49,000 members.
 
@@ -21,3 +21,6 @@
 ### [Association of Performing Arts Presenters](http://www.artspresenters.org/)
 
 > An association of 1,400 professional performing art centers, municipal and university performance facilities, foreign governments, artist agencies, managers, as well as touring companies.
+
+
+
