@@ -1,4 +1,4 @@
-# Dance
+# [https://www.numeridanse.tv/index.php/en/home](https://www.numeridanse.tv/index.php/en/home)Dance
 
 ## Dance Video - selected freely available online video collections
 
@@ -30,7 +30,7 @@
 
 > Online video from LoC collections and events, including early films from Edison and Westinghouse.
 
-## [numeridanse.tv : International Online Dance Video Library](http://numeridanse.tv/en)
+## [numeridanse.tv : International Online Dance Video Library](https://www.numeridanse.tv/index.php/en/home)
 
 > Free online dance videos, managed by a community of dance professionals and supported and coordinated by the Maison de la Danse in Lyon.
 
