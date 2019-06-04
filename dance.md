@@ -30,7 +30,7 @@
 
 > Online video from LoC collections and events, including early films from Edison and Westinghouse.
 
-## [numeridanse.tv : International Online Dance Video Library](https://www.numeridanse.tv/index.php/en/home)
+## [numeridanse.tv : International Online Dance Video Library](https://www.numeridanse.tv/en/node/55976)
 
 > Free online dance videos, managed by a community of dance professionals and supported and coordinated by the Maison de la Danse in Lyon.
 
